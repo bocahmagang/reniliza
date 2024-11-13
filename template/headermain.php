@@ -11,9 +11,9 @@
 		<link rel="stylesheet" href="assets/css/custom.css">
 		
 		<!-- FontAwesome-->
-		<link rel="stylesheet" href="assets/fa/css/all.css">
-        <!-- FontAwesome Online-->
-		<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.6.0/css/fontawesome.min.css" integrity="sha384-NvKbDTEnL+A8F/AA5Tc5kmMLSJHUO868P+lDtTpJIeQdGYaUIuLr4lVGOEA1OcMy" crossorigin="anonymous"> -->
+		<!-- <link rel="stylesheet" href="assets/fa/css/all.css"> -->
+                <!-- FontAwesome Online-->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.6.0/css/fontawesome.min.css" integrity="sha384-NvKbDTEnL+A8F/AA5Tc5kmMLSJHUO868P+lDtTpJIeQdGYaUIuLr4lVGOEA1OcMy" crossorigin="anonymous">
 
         <!-- jQuery -->	
         <script src="assets/js/jquery-3.6.0.min.js"></script>
@@ -21,9 +21,9 @@
         <script src="assets/js/bootstrap.min.js"></script>
         <script src="assets/js/popper.min.js"></script>
         <!-- SweetAlert2-->
-        <script type="text/javascript" src="assets/sa/dist/sweetalert2.all.min.js"></script>
+        <!-- <script type="text/javascript" src="assets/sa/dist/sweetalert2.all.min.js"></script> -->
         <!-- SweetAlert2 Online -->
-        <!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> -->
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
 		<title>Reniliza WebPage</title>
 	</head>
